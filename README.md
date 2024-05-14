@@ -1,4 +1,4 @@
-# Environmental-radiation-dose-prediction
+# Environmental-radiation-exposure-prediction-using-machine-learning
 A project with the aim of predicting environmental radiation doses arising from a radionuclide therapy service based on patient treatment types and numbers.
 
 This work is available in the following peer review publiction:
