@@ -1,5 +1,7 @@
 # Environmental-radiation-exposure-prediction-using-machine-learning
-A project with the aim of predicting environmental radiation doses arising from a radionuclide therapy service based on patient treatment types and numbers.
+A project with the aim of solving the problem of how to ensure environmental dose rates to the staff and public from the radionuclide therapy service at The Royal Free Hospital are kept below safe, legal limits.
+
+Machine learning was used to predict environmental radiation doses from patient treatment bookings data (types and numbers).
 
 This work is available in the following peer review publiction:
 
